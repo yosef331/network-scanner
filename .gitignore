@@ -1,0 +1,8 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Output files
+*.csv
+*.json
+*.txt
